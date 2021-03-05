@@ -7,3 +7,8 @@ body{
   .navbar{
     background-color: black;
 }
+
+.btn{
+    border: white;
+    background-color: white;
+}
