@@ -1,0 +1,28 @@
+body{
+    background-color: #212529;
+    color: white;
+    height: 100%;
+  }
+  form{
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 10%;
+  }
+  .nav-link{
+    color: white;
+    font-size: 18px;
+  }
+  .btn{
+    border-radius: 0;
+    border: none;
+    background-color: rgb(80, 91, 95)
+  }
+
+.contact h1{
+  display: flex;
+  justify-content: center;
+}
+
+.navbar{
+  background-color: black;
+}
